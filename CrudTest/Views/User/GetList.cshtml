@@ -1,0 +1,35 @@
+﻿@model List<CrudTest.TO.UserTO>
+
+@{
+    Layout = null;
+}
+
+<table class="highlight tbWhite">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Nome</th>
+            <th>Email</th>
+            <th>Telefone</th>
+            <th>Opções</th>
+        </tr>
+    </thead>
+
+    <tbody>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+                <td>@item.Email</td>
+                <td>@item.Telephone</td>
+                <td>
+                    <button class="waves-effect waves-light btn-small" onclick="GetById(@item.Id)"><i class="material-icons">edit</i></button>
+                    <button class="waves-effect waves-light btn-small red lighten-2 ml10" onclick="DeleteById(@item.Id)"><i class="material-icons">delete</i></button>
+                </td>
+            </tr>
+        }
+
+    </tbody>
+</table>

@@ -1,0 +1,6 @@
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\CrudTest\CrudTest.TO\bin\Debug\CrudTest.TO.dll
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\CrudTest\CrudTest.TO\bin\Debug\CrudTest.TO.pdb
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\CrudTest\CrudTest.TO\obj\Debug\CrudTest.TO.csprojAssemblyReference.cache
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\CrudTest\CrudTest.TO\obj\Debug\CrudTest.TO.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\CrudTest\CrudTest.TO\obj\Debug\CrudTest.TO.dll
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\CrudTest\CrudTest.TO\obj\Debug\CrudTest.TO.pdb

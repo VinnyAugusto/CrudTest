@@ -1,0 +1,73 @@
+﻿body {
+    background-image: url('../images/Background.jpg');
+    background-size: cover;
+}
+
+.content {
+    padding-top: 60px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+@media only screen and (max-width: 601px) {
+
+    .content {
+        padding-top: 10px;
+    }
+}
+
+@media only screen and (min-width: 993px) {
+
+    .content {
+        padding-left: 60px;
+        padding-right: 60px;
+    }
+}
+
+
+.mb0
+{
+    margin-bottom: 0px;
+}
+
+.rowtab {
+    background-image: url('../images/backtab.jpg');
+    background-size: cover;
+}
+
+.tbWhite thead tr {
+    color: white;
+    border-bottom: 2px solid white;
+}
+
+.tbWhite tbody tr {
+    color: white;
+    border-bottom: 1px solid white;
+}
+
+.btn-floating-top {
+    position: absolute;
+    top: -10px;
+    right: -10px;
+}
+
+.posAbsolute {
+    position: absolute;
+}
+
+.btn-floating-top div {
+    font-size: 45px;
+    margin-top: -10px;
+}
+
+.ml10
+{
+    margin-left: 10px;
+}
+
+.divTable {
+    margin-top: 5px;
+    padding: 10px 10px;
+    background-color: rgba(0, 0, 0, 0.3);
+}

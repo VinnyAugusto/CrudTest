@@ -1,0 +1,67 @@
+﻿@{
+    ViewBag.Title = "Cadastro de Usuários";
+}
+
+<link href="~/Content/materialize.min.css" rel="stylesheet" />
+<link href="~/Content/Site.css" rel="stylesheet" />
+
+<div class="content">
+    <div class="row">
+        <div class="col s12 m12">
+            <div class="z-depth-4">
+                <div class="row rowtab">
+                    <div class="col s12 m8">
+                        <div class="col s12">
+                            <div class="col s12">
+                                <br />
+                                <button id="btnNew" class="btn waves-effect waves-light teal right">Novo</button>
+                            </div>
+                            <div id="divTable" class="divTable">
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col s12 m4 white">
+                        <div class="row">
+                            <div class="col s12">
+                                <h5>Dados cadastrais</h5>
+                            </div>
+                            <div class="col s12">
+                                <span id="spnStatus">Cadastrando novo usuário</span>
+                            </div>
+                            <form class="col s12">
+                                <div class="row mb0">
+                                    <div class="input-field col s12">
+                                        <input id="txtName" type="text" maxlength="60" data-length="60" class="validate">
+                                        <label for="txtName">Nome Completo*</label>
+                                        <span class="helper-text" data-error="Digite nome completo" data-success="OK">Digite nome completo do usuário</span>
+                                    </div>
+                                    <div class="input-field col s12">
+                                        <input id="txtEmail" type="email" maxlength="60" data-length="60" class="validate">
+                                        <label for="txtEmail">Email*</label>
+                                        <span class="helper-text" data-error="Formato de e-mail incorreto" data-success="OK">Digite o e-mail do usuário</span>
+                                    </div>
+                                    <div class="input-field col s12">
+                                        <input id="txtTelephone" type="tel" maxlength="20" class="validate">
+                                        <label for="txtTelephone">Telefone</label>
+                                        <span class="helper-text" data-error="Formato de telefone incorreto" data-success="OK">Digite o telefone do usuário</span>
+                                    </div>
+                                </div>
+                            </form>
+                            <div class="col s12">
+                                <br />
+                                <button id="btnSave" class="waves-effect waves-light btn purple darken-2 right ml10">Salvar</button>
+                                <button id="btnCancel" class="waves-effect waves-light btn red lighten-2 right">Cancelar</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section scripts
+{
+    <script src="~/Scripts/user.js"></script>
+}

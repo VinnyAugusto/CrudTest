@@ -1,0 +1,11 @@
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\CrudTest\CrudTest.BLL\bin\Debug\CrudTest.BLL.dll
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\CrudTest\CrudTest.BLL\bin\Debug\CrudTest.BLL.pdb
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\CrudTest\CrudTest.BLL\bin\Debug\CrudTest.DAL.dll
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\CrudTest\CrudTest.BLL\bin\Debug\CrudTest.TO.dll
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\CrudTest\CrudTest.BLL\bin\Debug\CrudTest.DAL.pdb
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\CrudTest\CrudTest.BLL\bin\Debug\CrudTest.TO.pdb
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\CrudTest\CrudTest.BLL\obj\Debug\CrudTest.BLL.csprojAssemblyReference.cache
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\CrudTest\CrudTest.BLL\obj\Debug\CrudTest.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\CrudTest\CrudTest.BLL\obj\Debug\CrudTest.BLL.csproj.CopyComplete
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\CrudTest\CrudTest.BLL\obj\Debug\CrudTest.BLL.dll
+C:\Users\Vinicius\Documents\Visual Studio 2017\Projects\CrudTest\CrudTest.BLL\obj\Debug\CrudTest.BLL.pdb
